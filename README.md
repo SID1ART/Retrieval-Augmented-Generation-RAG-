@@ -78,7 +78,6 @@ $$;
 
 - Supabase account
 - Cohere API key
-- Python 3.8+
 
 ### Installation
 
