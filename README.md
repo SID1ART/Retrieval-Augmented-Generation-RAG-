@@ -78,6 +78,7 @@ $$;
 
 - Supabase account
 - Cohere API key
+- Cloud or locally installed n8n
 
 ### Installation
 
