@@ -145,7 +145,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - https://www.linkedin.com/in/siddharthpj/
+Name - https://www.linkedin.com/in/siddharthpj/
 
 Project Link: https://github.com/SID1ART/Retrieval-Augmented-Generation-RAG-
 
