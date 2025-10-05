@@ -145,9 +145,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+Your Name - https://www.linkedin.com/in/siddharthpj/
 
-Project Link: [https://github.com/yourusername/chess-rules-rag](https://github.com/yourusername/chess-rules-rag)
+Project Link: https://github.com/SID1ART/Retrieval-Augmented-Generation-RAG-
 
 ---
 
